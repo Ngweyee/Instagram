@@ -1,2 +1,2 @@
 # Instagram
-MindOrks Bootcamp Orane
+MindOrks Bootcamp Instagram App
